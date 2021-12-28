@@ -2,6 +2,9 @@
 
 ### Кастомная гитара Explorer
 
-![gitara-kreslo-guitar-gibson](https://user-images.githubusercontent.com/56477695/147482152-4105b849-02c5-436a-9e91-5619ce64f009.jpg)
+![img-portfolio](https://user-images.githubusercontent.com/56477695/147604495-a6af4db6-40bb-44ad-a216-fa9b82732433.jpg)
+
 
 ### Codepen: https://codepen.io/vladimirsaenko/pen/wvrpgGV
+
+### Portfolio: 
