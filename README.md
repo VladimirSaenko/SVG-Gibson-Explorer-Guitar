@@ -1,6 +1,6 @@
 # SVG-Gibson-Explorer-Guitar
 
-## Кастомная гитара Gibson Explorer
+## Кастомная гитара Gibson Explorer | Custom guitar Gibson Explorer
 
 ### Codepen: https://codepen.io/vladimirsaenko/pen/wvrpgGV
 
