@@ -45,3 +45,9 @@ body {
     color: #fff;
     text-shadow: black -3px 2px 1px;
 }
+
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    #guitar {
+        width: 375px;
+    }
+}
