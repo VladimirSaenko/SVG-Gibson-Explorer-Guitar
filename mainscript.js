@@ -21,6 +21,6 @@ input2.addEventListener('input', function() {
     color2.style.fill = input2.value;
 })
 
-function getRandomInt(min, max) {
-    return Math.floor(Math.random() * (max - min)) + min;
-}
+// function getRandomInt(min, max) {
+//     return Math.floor(Math.random() * (max - min)) + min;
+// }
